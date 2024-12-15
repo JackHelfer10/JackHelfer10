@@ -16,6 +16,10 @@ I'm an Electrical Engineering student at California Baptist University. I enjoy 
  ## Currently Learning
  - **KiCad**: PCB Design and integration for projects
 
+## Notable Courses
+- **Circuit Theory 1**
+- **Digital Logic Design**
+
 ## Contact Me
 - [LinkedIn](www.linkedin.com/in/jack-helfer-38185a294)
 - [GitHub](https://github.com/<JackHelfer10>/)
