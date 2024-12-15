@@ -22,6 +22,6 @@ I'm an Electrical Engineering student at California Baptist University. I enjoy 
 
 ## Contact Me
 - [LinkedIn](www.linkedin.com/in/jack-helfer-38185a294)
-- [GitHub](https://github.com/<JackHelfer10>/)
+- [GitHub](https://github.com/JackHelfer10)
 - Email: [jackhelfer10@gmail.com](mailto:jackhelfer10@gmail.com)
 
