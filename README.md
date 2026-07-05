@@ -4,8 +4,14 @@ I'm an Electrical Engineering student at California Baptist University. I enjoy 
 
 ## Projects
 - **[CBU Motorsports BMS Segment Board]([https://github.com/JackHelfer10/JackHelfer10/blob/main/CBU%20Motorsports%20BMS%20Segment%20Board])**
-  *Programmed a 2D top-down shooter game with 2 fellow students.*
-  - Used C# to program character and velocity physics, player movement, and enemy cloning.
+  *Designed battery management system segment board responsible for cell balancing and mointoring cell temperature and voltage.*
+  - Used Altium Designer to create detailed multi-sheet schematic and PCB layout.
+  - Manufactured and tested boards for deployment.
+
+  - **[Project Athena EPS]([https://github.com/JackHelfer10/JackHelfer10/blob/main/CBU%20Motorsports%20BMS%20Segment%20Board])**
+  *Designed battery management system segment board responsible for cell balancing and mointoring cell temperature and voltage.*
+  - Used Altium Designer to create detailed multi-sheet schematic and PCB layout.
+  - Manufactured and tested boards for deployment.
   
 
 ## Skills
