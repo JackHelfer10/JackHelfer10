@@ -9,16 +9,9 @@ I'm an Electrical Engineering student at California Baptist University. I enjoy 
   
 
 ## Skills
-- **Hardware**: KiCad (Basic Understanding Currently)
-- **Software**: C/C++, Python, MATLAB, Git.
+- **Software**: Altium Designer, KiCad, AutoCAD, Revit, C/C++, Python, MATLAB.
 - **Tools**: Oscilloscopes, Logic Analyzers, Multimeters.
 
- ## Currently Learning
- - **KiCad**: PCB Design and integration for projects
-
-## Notable Courses
-- **Circuit Theory 1**
-- **Digital Logic Design**
 
 ## Contact Me
 - [LinkedIn](www.linkedin.com/in/jack-helfer-38185a294)
