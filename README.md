@@ -10,9 +10,9 @@ I'm an Electrical Engineering student at California Baptist University. I enjoy 
 
 
 - **[Project Athena EPS]([https://github.com/JackHelfer10/JackHelfer10/blob/main/CBU%20Motorsports%20BMS%20Segment%20Board])**
-  *Designed battery management system segment board responsible for cell balancing and mointoring cell temperature and voltage.*
+  *Designed circuitry for cubesat electrical power system.*
   - Used Altium Designer to create detailed multi-sheet schematic and PCB layout.
-  - Manufactured and tested boards for deployment.
+  - Researched integrated chip selection.
   
 
 ## Skills
